@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Mihai Fratila, I'm studying Automatization and Computer Science on Hyperion University, currently in my 2nd year.
+- 🌱 I’m currently learning C++, Gameplay Programming and Python.
